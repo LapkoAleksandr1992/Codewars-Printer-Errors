@@ -1,4 +1,4 @@
-function printerError(s) {
+function printerError(s) { ///comentttt
     // your code
     var count = 0;
     for(var i = 0; i < s.length; i++) {
